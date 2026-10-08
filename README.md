@@ -13,7 +13,10 @@
 
 <p align="center">
   <img src="fka_logo.jpg" width="20%">
-  <img src="le_logo.png" width="20%">
-  <img src="lale_logo.png" width="20%">
+</p>
+
+<p align="center">
+  <img src="le_logo.png" width="20%" style="margin-right: 50px;">
+  <img src="lale_logo.png" width="20%" style="margin-right: 50px;">>
   <img src="nosa_logo.png" width="20%">
 </p>
