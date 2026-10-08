@@ -10,3 +10,10 @@
 <p align="center">
   <img src="LogoSachsen.png" alt="LogoSachsen" width="80%">
 </p>
+
+<p align="center">
+  <img src="fka_logo.jpg" width="20%">
+  <img src="le_logo.jpg" width="20%">
+  <img src="lela_logo.jpg" width="20%">
+  <img src="nosa_logo.jpg" width="20%">
+</p>
