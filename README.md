@@ -1,4 +1,4 @@
-</> HTML
+
 <p>
   Es handelt sich um ein Projekt der Fachkräfteallianz Leipzig, Nordsachsen und Leipziger Land.
   Das Projekt wird zudem unterstützt von der
