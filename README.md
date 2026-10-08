@@ -6,3 +6,7 @@
   sowie der
   <a href="https://eust-leipzig.eu">Stiftung Energie und Umwelt Leipzig</a>.
 </p>
+
+<p align="center">
+  <img src="images/bild.jpg" alt="Projektbild" width="80%">
+</p>
