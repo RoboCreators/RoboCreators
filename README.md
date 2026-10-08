@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="images/bild.jpg" alt="Projektbild" width="80%">
+  <img src="LogoSachsen.png" alt="LogoSachsen" width="80%">
 </p>
