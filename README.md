@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="LogoSachsen.png" alt="LogoSachsen" width="80%">
+  <img src="LogoSachsen.png" alt="LogoSachsen" width="40%">
 </p>
 
 <p align="center">
