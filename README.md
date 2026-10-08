@@ -14,6 +14,6 @@
 <p align="center">
   <img src="fka_logo.jpg" width="20%">
   <img src="le_logo.png" width="20%">
-  <img src="lela_logo.png" width="20%">
+  <img src="lale_logo.png" width="20%">
   <img src="nosa_logo.png" width="20%">
 </p>
